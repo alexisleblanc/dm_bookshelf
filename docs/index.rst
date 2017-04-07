@@ -10,7 +10,7 @@ Welcome to dm_bookshelf's documentation!
    :maxdepth: 4
    :caption: Contents:
 
-
+   all-about-me
 
 Indices and tables
 ==================
